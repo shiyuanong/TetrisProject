@@ -1,0 +1,7 @@
+#TODO
+
+- Implement a side bar / window showing the incoming piece
+- Implement a better scoring system with bonuses for tetrises and t-spins
+- Implement better collision detection with delayed piece lock, to enable ground rotation and t/l/z spinning
+- Implement better colour schemes and UI
+- Implement main menu, restart option and game over screens
